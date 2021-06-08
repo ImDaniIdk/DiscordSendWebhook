@@ -1,17 +1,17 @@
-:siren: __**DiscordSendWebhook**__ ***v1.0*** Now supports Discord formatting & emojies. Send to multiple Webhooks.
-DiscordSendWebhook - Send Discord webhook messages via command line or batch file.
-- Latest version: DiscordSendWebhook_v1.0 (2020-11-15)
+: siren: __ ** DiscordSendWebhook ** __ *** v1.0 *** Ahora es compatible con el formato Discord y emojies. Envíe a varios Webhooks.
+DiscordSendWebhook: envíe mensajes de webhook de Discord a través de la línea de comandos o un archivo por lotes.
+- Última versión: DiscordSendWebhook_v1.0 (2020-11-15)
 
-***FEATURES***
-- Send Discord webhook messages via command line or batch file.
-- Easy to use!
-- Supports Discord formatting and default emojies.
-- Send message to multiple Webhook URLs in single command line.
-- Supports custom bot name, custom avatar, and force TTS.
+***CARACTERÍSTICAS***
+- Envíe mensajes de webhook de Discord a través de la línea de comandos o un archivo por lotes.
+- ¡Fácil de usar!
+- Admite el formato de Discord y emojies predeterminados.
+- Enviar mensaje a múltiples URL de Webhook en una sola línea de comando.
+- Admite nombre de bot personalizado, avatar personalizado y fuerza TTS.
 
-***DOWNLOAD LINKS***
-Direct Download Link: http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.zip
-Source Code (AutoIT): http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.au3
-GitHub:               https://github.com/phoenix125/DiscordSendWebhook
+***DESCARGAR ENLACES***
+Enlace de descarga directa: http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.zip
+Código fuente (AutoIT): http://www.phoenix125.com/share/discordsendwebhook/DiscordSendWebhook.au3
+GitHub: https://github.com/phoenix125/DiscordSendWebhook
 
-Readme:               http://www.phoenix125.com/share/discordsendwebhook/readme.txt
+Léame: http://www.phoenix125.com/share/discordsendwebhook/readme.txt
